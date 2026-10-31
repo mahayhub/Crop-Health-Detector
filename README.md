@@ -124,4 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For further information or queries, please reach out to us at:  
 **Project Lead:** Soumya Chakraborty  
-**Email:** [soumyachakraborty198181@gmail.com](mailto:soumyachakraborty198181@gmail.com)
+**Email:** [billymartins999@gmail.com)
